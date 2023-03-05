@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "School"
+^C
+root@aa7c74ec4ffa:/# cd alx-pre_course/0x01-git/bash# git add .
